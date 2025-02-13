@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+ <!--DEV-->
+ <project name="dev_eng" path="dev/eng"/>
+ <project name="dev_eng_stig" path="dev/eng/stig"/>
+ <!--VM-->
+ <project name="dev_vm_vmware_android" path="dev/vm/vmware/android"/>
+ <project name="dev_vm_vmware_linux_player" path="dev/vm/vmware/linux/player"/>
+ <project name="dev_vm_vmware_linux_tools" path="dev/vm/vmware/linux/tools"/>
+ <project name="dev_vm_vmware_linux_vmrc" path="dev/vm/vmware/linux/vmrc"/>
+ <project name="dev_vm_vmware_linux_workstation" path="dev/vm/vmware/linux/workstation"/>
+ <project name="dev_vm_vmware_macos" path="dev/vm/vmware/macos"/>
+ <project name="dev_vm_vmware_windows_converter" path="dev/vm/vmware/windows/converter"/>
+ <project name="dev_vm_vmware_windows_player" path="dev/vm/vmware/windows/player"/>
+ <project name="dev_vm_vmware_windows_tools" path="dev/vm/vmware/windows/tools"/>
+ <project name="dev_vm_vmware_windows_vmrc" path="dev/vm/vmware/windows/vmrc"/>
+ <project name="dev_vm_vmware_windows_workstation" path="dev/vm/vmware/windows/workstation"/>
+ <!--GITHUB-->
+ <project name="AUTOMATIC1111/stable-diffusion-webui" path="dev/git/stable-diffusion-webui" remote="githubmaster"/>
+ <project name="bacher09/pwgen-for-bios" path="dev/git/pwgen-for-bios" remote="githubmain"/>
+ <project name="ChrisRfr/Win10XPE" path="dev/git/Win10XPE" remote="githubmaster"/>
+ <project name="dogbert/bios-pwgen" path="dev/git/bios-pwgen" remote="githubmaster"/>
+ <project name="google/adb-sync" path="dev/git/adb-sync" remote="githubmaster"/>
+ <project name="hagezi/dns-blocklists" path="dev/git/dns-blocklists" remote="githubmain"/>
+ <project name="hak5/usbrubberducky-payloads" path="dev/git/usbrubberducky-payloads" remote="githubmaster"/>
+ <project name="INT3NSE07/better-adb-sync" path="dev/git/better-adb-sync" remote="githubmain"/>
+ <project name="issus/altium-library" path="dev/git/altium-library" remote="githubmaster"/>
+ <project name="sqlitebrowser/sqlitebrowser" path="dev/git/sqlbrowser" remote="githubmaster"/>
+ <project name="TheMuppets/manifests" path="dev/git/manifests" remote="github" revision="lineage-21.0"/>
+ <project name="upscayl/upscayl" path="dev/git/upscayl" remote="githubmain"/>
+ <!--GITLAB-->
+ <project name="MindTheGapps/vendor_gapps" path="dev/git/vendor_gapps" remote="gitlab" revision="upsilon"/>
+ <!--GIST-->
+ <project name="aallan/b4bb86db86079509e6159810ae9bd3e4" path="dev/git/mac-vendor" remote="gitgist" revision="846ae1b646ab0f4d646af9115e47365f4118e5f6"/>
+ <!--MAGISK-->	
+ <project name="topjohnwu/Magisk" path="dev/git/Magisk" remote="githubmaster"/>
+ <project name="topjohnwu/ndk-busybox" path="dev/git/Magisk/native/src/external/busybox" remote="github" revision="android-ndk-1.36.1"/>
+ <project name="nemequ/bzip2" path="dev/git/Magisk/native/src/external/bzip2" remote="githubmaster"/>
+ <project name="topjohnwu/crt0" path="dev/git/Magisk/native/src/external/crt0" remote="githubmaster"/>
+ <project name="topjohnwu/cxx" path="dev/git/Magisk/native/src/external/cxx-rs" remote="githubmaster"/>
+ <project name="topjohnwu/libcxx" path="dev/git/Magisk/native/src/external/libcxx" remote="githubmaster"/>
+ <project name="LSPosed/LSPlt" path="dev/git/Magisk/native/src/external/lsplt" remote="githubmaster"/>
+ <project name="lz4/lz4" path="dev/git/Magisk/native/src/external/lz4" remote="githubdev"/>
+ <project name="platform/external/pcre" path="dev/git/Magisk/native/src/external/pcre" remote="googleandroidmaster"/>
+ <project name="topjohnwu/selinux" path="dev/git/Magisk/native/src/external/selinux" remote="githubmaster"/>
+ <project name="topjohnwu/system_properties" path="dev/git/Magisk/native/src/external/system_properties" remote="githubmaster"/>
+ <project name="xz-mirror/xz" path="dev/git/Magisk/native/src/external/xz" remote="githubmaster"/>
+ <project name="platform/external/zlib" path="dev/git/Magisk/native/src/external/zlib" remote="googleandroidmaster"/>
+ <project name="google/zopfli" path="dev/git/Magisk/native/src/external/zopfli" remote="githubmaster"/>
+ <project name="termux/termux-elf-cleaner" path="dev/git/Magisk/tools/termux-elf-cleaner" remote="githubmaster"/>
+</manifest>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+ <!--BIBLIO-->
+ <project name="biblio_000" path="biblio/000"/>
+ <project name="biblio_100" path="biblio/100"/>
+ <project name="biblio_200" path="biblio/200"/>
+ <project name="biblio_300" path="biblio/300"/>
+ <project name="biblio_400" path="biblio/400"/>
+ <project name="biblio_500" path="biblio/500"/>
+ <project name="biblio_600" path="biblio/600"/>
+ <project name="biblio_700" path="biblio/700"/>
+ <project name="biblio_800" path="biblio/800"/>
+ <project name="biblio_900" path="biblio/900"/>
+</manifest>

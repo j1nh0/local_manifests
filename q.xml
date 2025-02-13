@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+ <!--Q-->
+ <project name="flipperdevices" path="q/flipperdevices"/>
+ <project name="j1nh0" path="q/j1nh0"/>
+ <project name="linx" path="q/linx"/>
+ <project name="local_manifests" path="q/local_manifests"/>
+ <project name="repo" path="q/repo"/>
+ <project name="RogueMaster" path="q/RogueMaster"/>
+ <project name="wind" path="q/wind"/>
+</manifest>
